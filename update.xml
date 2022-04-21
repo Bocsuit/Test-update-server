@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update type="minor" displayVersion="2000.0a1" appVersion="2000.0a1" platformVersion="2000.0a1" buildID="21181002100236">
+        <patch type="complete" URL="http://127.0.0.1:8000/<mar name>" hashFunction="sha512" hashValue="<hash>" size="<size>"/>
+    </update>
+</updates>
