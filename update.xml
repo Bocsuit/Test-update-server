@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<updates>
-    <update type="minor" displayVersion="2000.0a1" appVersion="2000.0a1" platformVersion="2000.0a1" buildID="21181002100236">
-        <patch type="complete" URL="https://ftp.mozilla.org/pub/firefox/releases/99.0b8/update/win64/en-US/firefox-99.0b8.complete.mar" hashFunction="sha512" hashValue="<hash>" size="<size>"/>
-    </update>
-</updates>
