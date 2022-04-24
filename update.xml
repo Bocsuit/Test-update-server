@@ -1,5 +1,5 @@
 <updates>
-<update type="minor" displayVersion="102.0" appVersion="102.0" platformVersion="102.0" buildID="20220417164421">
+<update type="minor" displayVersion="101.0" appVersion="101.0" platformVersion="101.0" buildID="20220417164421">
 <patch type="complete" URL="https://github.com/Bocsuit/Danielo/releases/download/1.0/output.mar" hashFunction="sha512" hashValue="b856e98f3f7921f5babf2a2280cd6af909dc9d2ea563d2f9a05d1d94c98e0f331fee59729357b0f25e098935ca44112dfa4a71dbe80623181d0c0086123fbc7d" size="59397936"/>
 </update>
 </updates>
